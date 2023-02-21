@@ -5,7 +5,7 @@ de todos los elementos del array. ¿Qué sucede con los valores de los elementos
 que no han sido inicializados?
  */
 import java.util.Scanner;
-public class Ejercicio2 {
+public class Ejercicio02 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         char [] simbolo = new char[10];
